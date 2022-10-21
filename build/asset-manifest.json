@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.28779c16.css",
+    "main.js": "/static/js/main.c3ffa651.js",
+    "static/js/787.48adcdfa.chunk.js": "/static/js/787.48adcdfa.chunk.js",
+    "static/media/unaanamed.png": "/static/media/unaanamed.cafc4d1862c48093ffa7.png",
+    "static/media/background_intranet.png": "/static/media/background_intranet.b96bcb0385766f623e6a.png",
+    "static/media/header.png": "/static/media/header.189ea3009e91883a4d25.png",
+    "static/media/3.1xl.jpg": "/static/media/3.1xl.464c9350152b47a22a2b.jpg",
+    "static/media/2m.jpg": "/static/media/2m.82f4e54ce0d659d9d7f5.jpg",
+    "static/media/1.1-xs.jpg": "/static/media/1.1-xs.4233086c5c97e7af1242.jpg",
+    "static/media/1.2s.jpg": "/static/media/1.2s.f95bb60fd6b2e269e59c.jpg",
+    "static/media/3.0l.jpg": "/static/media/3.0l.0441990514bf92321a2c.jpg",
+    "static/media/1.0-xxs.jpg": "/static/media/1.0-xxs.71a02498d7efcfb07249.jpg",
+    "static/media/user.png": "/static/media/user.554dccbc377e9d43f025.png",
+    "static/media/lucida-sans-demibold-roman.ttf": "/static/media/lucida-sans-demibold-roman.628dda31b6bd2801cc6c.ttf",
+    "static/media/ATSLOGO.png": "/static/media/ATSLOGO.a4dcf41f2c78ae1c16e7.png",
+    "static/media/Logo_Atenas.png": "/static/media/Logo_Atenas.759d81df6f521a8bf33a.png",
+    "static/media/Logo_Atenas_EliseBlanca.png": "/static/media/Logo_Atenas_EliseBlanca.04b508c93add4093aa27.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/file-pdf.svg": "/static/media/file-pdf.ffc0851df91f68e1ba02dfcf397eb930.svg",
+    "static/media/file-excel.svg": "/static/media/file-excel.259b821776e0a0b6876afd971ad3720e.svg",
+    "index.html": "/index.html",
+    "static/media/file-powerpoint.svg": "/static/media/file-powerpoint.4aee0cc8ee33ad9b3a84ddf699fad306.svg",
+    "static/media/file.svg": "/static/media/file.c017ec14c8a68389f69413fc452b23aa.svg",
+    "main.28779c16.css.map": "/static/css/main.28779c16.css.map",
+    "main.c3ffa651.js.map": "/static/js/main.c3ffa651.js.map",
+    "787.48adcdfa.chunk.js.map": "/static/js/787.48adcdfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28779c16.css",
+    "static/js/main.c3ffa651.js"
+  ]
+}
